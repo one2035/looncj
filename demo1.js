@@ -8,4 +8,4 @@ hostname=baidu.com
 
 [Script]
 
-http-request https?:\/\/baidu\.com script-path=https://raw.githubusercontent.com/one2035/looncj/refs/heads/main/demo1.js, requires-body=true, timeout=120, tag=小赵的脚本
+http-request https?:\/\/baidu\.com script-path=https://raw.githubusercontent.com/one2035/looncj/refs/heads/main/demo2.js, requires-body=true, timeout=120, tag=小赵的脚本
