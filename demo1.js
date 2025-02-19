@@ -5,8 +5,8 @@
 #!icon=https://avatars.githubusercontent.com/u/38467044?v=4
 
 [MITM]
-hostname=xn--ck8h.com
+hostname=baidu.com
 
 [Script]
 
-http-request https?:\/\/xn--ck8h\.com script-path=https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/backend/gallery.js, requires-body=true, timeout=120, tag=Loon-Gallery
+http-request https?:\/\/baidu\.com script-path=https://raw.githubusercontent.com/one2035/looncj/refs/heads/main/demo1.js, requires-body=true, timeout=120, tag=Loon-Gallery
